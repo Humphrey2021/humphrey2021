@@ -6,7 +6,7 @@
 
 _MAKE ME BETTER!_
 
-- CSDN: https://blog.csdn.net/weixin_46652769
+- [CSDN](https://blog.csdn.net/weixin_46652769)
 
 <!--
 **Humphrey2021/humphrey2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
