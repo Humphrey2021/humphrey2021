@@ -8,7 +8,7 @@ _MAKE ME BETTER!_
 
 - [CSDN](https://blog.csdn.net/weixin_46652769)
 
-📫 How to reach me: [emil](humphrey2021@163.com)
+
 
 <!--
 **Humphrey2021/humphrey2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
--
+- 📫 How to reach me: [emil](humphrey2021@163.com)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
