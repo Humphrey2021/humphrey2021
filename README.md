@@ -4,7 +4,7 @@
 
 ## I'm Humphrey
 
-_MAKE ME BETTER!_
+*MAKE ME BETTER!*
 
 - [CSDN](https://blog.csdn.net/weixin_46652769)
 
